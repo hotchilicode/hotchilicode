@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hotchilicode&label=Profile%20views&color=0e75b6&style=flat" alt="hotchilicode" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce Advance Filtering Project**
+- 🔭 I’m currently working on **Blog Full Stack App**
 
 - 🌱 I’m currently learning **React & Python**
 
