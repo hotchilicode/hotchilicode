@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Python**
 
-- 👯 I’m looking to collaborate on **projects that leverage Python and web development to build innovative trading bots and cryptocurrency platforms.**
+- 👯 I’m looking to collaborate on **projects that leverage Python and web development to build innovative trading bots and cryptocurrency platforms in the web.**
 
 - 🤝 I’m looking for help with **Full Stack projects to improve my skills**
 
