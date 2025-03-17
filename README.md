@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blog Full Stack App**
 
-- 🌱 I’m currently learning **React & Python**
+- 🌱 I’m currently Improving my skills on **React & Python**
 
 - 👯 I’m looking to collaborate on **projects that leverage Python and web development to build innovative trading bots and cryptocurrency platforms in the web.**
 
