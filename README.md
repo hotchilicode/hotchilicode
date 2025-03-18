@@ -5,17 +5,11 @@
 
 - 🔭 I’m currently working on **Blog Full Stack App**
 
-- 🌱 I’m currently Improving my skills on **React & Python**
+- 🌱 I’m currently Working on **React & Python** Projects
 
 - 👯 I’m looking to collaborate on **projects that leverage Python and web development to build innovative trading bots and cryptocurrency platforms in the web.**
 
 - 🤝 I’m looking for help with **Full Stack projects to improve my skills**
-
-- 💬 Ask me about **JS**
-
-- 📫 How to reach me **softwaredevtonic@gmail.com**
-
-- ⚡ Fun fact **I think I am funny, but sometimes I wonder if my sense of humor is just a little too unique!😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
